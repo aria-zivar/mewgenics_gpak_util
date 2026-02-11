@@ -1,5 +1,5 @@
 # mewgenics_gpak_util
-Quick and dirty CLI port of Tiftid's mewgenics_gpak_util to python for my own unpacking purposes.
+Quick and dirty CLI port of [Tiftid's mewgenics_gpak_util](https://github.com/Tiftid/mewgenics_gpak_util) to python for my own unpacking purposes.
 Added repacking files to gpak since it was missing.
 
 *Arguments*
