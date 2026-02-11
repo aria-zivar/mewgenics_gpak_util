@@ -111,7 +111,7 @@ def main():
     args = parser.parse_args()
 
     try:
-        if args.unpack_pack == "pack_unpack":
+        if args.pack_unpack == "unpack":
             unpack(args.gpak, args.output)
         else:
             pack(args.dir, args.gpak)
